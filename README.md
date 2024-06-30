@@ -55,3 +55,12 @@ pip install pymongo
 
 
 pip install pandas
+
+
+#MY_MONGODB_CREDNTIALS
+
+
+Connection String = "mongodb+srv://techvaseegrah:kL5RvAyrOQBVFQAc@cluster0.pbjj6kp.mongodb.net/F3-DB?retryWrites=true&w=majority&appName=Cluster0"
+
+
+DB_Name = "F3-RE"
